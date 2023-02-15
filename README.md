@@ -1,5 +1,5 @@
 # Group Chat Application
-This application that is wroten with C language, provides simple group chat actions such as: joing group, sending messages, recieving messages from other, and quit group.
+This application that is wroten with C language in linux OS, provides simple group chat actions such as: joing group, sending messages, recieving messages from other, and quit group.
 
 An example of the application is shown in below:
 first client: Zahra
