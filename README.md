@@ -2,6 +2,7 @@
 This application that is wroten with C language in linux OS, provides simple group chat actions such as: joing group, sending messages, recieving messages from other, and quit group.
 
 An example of the application is shown in below:
+
 first client: Zahra
 
 ![image](https://user-images.githubusercontent.com/93929227/218965800-e1aaca03-19ec-4099-838d-1c06b01d4543.png)
